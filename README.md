@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=0A5EB0&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Alma+Dedi%C4%87!)](https://git.io/typing-svg)
+
 Final-year Software Engineering student – coding, learning, and enjoying the journey!
 <!--
 **alma-dedic/alma-dedic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
