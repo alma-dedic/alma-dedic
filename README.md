@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Alma.
+## Hi there 👋, my name is Alma Dedić
 
 <!--
 **alma-dedic/alma-dedic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
